@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jbdcruz123
+- 👋 Hi, Ron S. M.
 - 👀 I’m interested in C language, or im still choosing what computer language will i study
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on ...
