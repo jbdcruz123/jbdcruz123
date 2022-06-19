@@ -1,7 +1,7 @@
 - 👋 Hi, Ron S. M.
 - 👀 I’m interested on python programing and C language
 - 🌱 I’m currently self studying python programing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m newbie on github( still studying the manual of this site)
 - 📫 How to reach me, I have email jbdcruz123@gmail.com
 
 <!---
