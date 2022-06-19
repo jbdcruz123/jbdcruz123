@@ -1,5 +1,5 @@
 - 👋 Hi, Ron S. M.
-- 👀 I’m interested in C language and python programing
+- 👀 I’m interested python programing and C language
 - 🌱 I’m currently python programing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, I have email jbdcruz123@gmail.com
